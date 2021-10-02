@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "tor_api.h": "c",
+        "type_traits": "c"
+    }
+}
